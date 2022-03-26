@@ -1,0 +1,10 @@
+tempo 4 = 120
+mi4:4 ra4:4 do5:4      mi5:2 mi5:4          re5:4 do5:4 si4:4           do5:2.    
+ra4:4 do5:4 mi5:4      ra5:2 ra5:4          ra5:4 si5:4 sol5:8 fa5:8    sol5:2.
+si4:4 mi5:4 sol5:4     si5:2 ra5:4          sol5:4 fas5:4 sol5:4        ra5:2 sol5:4
+fas5:2 mi5:4           mi5:4 re5:4 do5:4    si4:4 dos5:4. res5:8        mi5:2.
+mi4:4 ra4:4 do5:4      mi5:2 mi5:4          re5:4 do5:4 si4:4           do5:2.    
+ra4:4 do5:4 mi5:4      ra5:2 ra5:4          ra5:4 si5:4 sol5:8 fa5:8    sol5:2.
+si4:4 mi5:4 sol5:4     si5:2 ra5:4          sol5:4 fas5:4 sol5:4        ra5:2 sol5:4
+fas5:2 mi5:4           mi5:4 re5:4 do5:4    si4:4 dos5:4. res5:8        mi5:4 re5:4 do5:4
+si4:4 dos5:4. res5:8   mi5:2.              mi5:2.
